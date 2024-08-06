@@ -15,7 +15,7 @@
 ###
 
 <div align="left" style="width: 100%; display: inline-block; height: 50%;">
-  <img  style="width: 100%; height: 50%;" src="./download.jpeg"  />
+  <img  style="width: 100%; display: inline-block; height: 50%;" src="./download.jpeg"  />
 </div>
 
 ###
