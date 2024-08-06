@@ -14,8 +14,8 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="./download.jpeg"  />
+<div align="left" tyle="width: 100%;">
+  <img  height="200" src="./download.jpeg"  />
 </div>
 
 ###
