@@ -14,7 +14,7 @@
 
 ###
 
-<img width="1000" height="300" src="https://media1.tenor.com/m/0oH_oZ43RxEAAAAd/luffy-gear-5.gif" alt="Luffy Gear 5" />
+<img width="1000" height="300" src="https://media1.tenor.com/m/lVEvDN0kw9gAAAAd/luffy-luffy-gear-5.gif" alt="Luffy Gear 5" />
 
 ###
 
