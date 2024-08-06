@@ -14,7 +14,7 @@
 
 ###
 
-<div style="width: 100%; height: 50%; display: block;">
+<div style="width: 500%; height: 50%; display: block;">
   <img style="width: 100%; height: 100%;" src="https://media1.tenor.com/m/0oH_oZ43RxEAAAAd/luffy-gear-5.gif" alt="Luffy Gear 5" />
 </div>
 
